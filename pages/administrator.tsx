@@ -1,5 +1,11 @@
 import React from 'react';
+import Sidebar from './left-nav-bar';
 
 export default function Administration() {
-  return <div>administration</div>;
+  return (
+    <div>
+      <p>administration</p>
+      <Sidebar />
+    </div>
+  );
 }

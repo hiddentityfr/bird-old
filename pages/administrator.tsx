@@ -1,5 +1,5 @@
 import React from 'react';
 
-export default function TemporaryDrawer() {
+export default function Administration() {
   return <div>administration</div>;
 }
